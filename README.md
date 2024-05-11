@@ -9,31 +9,23 @@ This is a Node.js backend project built with Express.js framework.
 ## Getting Started
 1. Clone the repository:
 
-bash
-Copiar código
 git clone https://github.com/solvingbaker/gapsiback.git
 
 2. Navigate to the project directory:
 
-bash
-Copiar código
 cd backend-project
 
 3. Install dependencies:
 
-bash
-Copiar código
 npm install
 
 4. Start the server:
 
-bash
-Copiar código
 npm start
 
 The server should now be running on http://localhost:3000.
 
-## Testing with Postman
+### Testing with Postman
 You can use Postman to test the API endpoints. Follow these steps to import the Postman collection:
 
 Open Postman.
