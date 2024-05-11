@@ -36,8 +36,8 @@ Select the option to "Import From Link".
 
 Paste the following link:
 
-arduino
 https://www.postman.com/solar-moon-610432/workspace/gapsi-backend-collection/collection/34654408-e75d57c7-d307-4eca-b201-06809f8ccc5a?action=share&creator=34654408
+
 Replace your-collection-id with the ID of your Postman collection.
 
 Click on the "Import" button.
