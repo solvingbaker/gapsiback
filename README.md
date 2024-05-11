@@ -23,7 +23,7 @@ npm install
 
 npm start
 
-The server should now be running on http://localhost:3000.
+The server should now be running on http://localhost:3001.
 
 ### Testing with Postman
 You can use Postman to test the API endpoints. Follow these steps to import or view the Postman collection:
