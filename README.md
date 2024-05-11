@@ -26,22 +26,12 @@ npm start
 The server should now be running on http://localhost:3000.
 
 ### Testing with Postman
-You can use Postman to test the API endpoints. Follow these steps to import the Postman collection:
-
-Open Postman.
-
-Click on the "Import" button in the top left corner.
-
-Select the option to "Import From Link".
+You can use Postman to test the API endpoints. Follow these steps to import or view the Postman collection:
 
 Paste the following link:
 
 https://www.postman.com/solar-moon-610432/workspace/gapsi-backend-collection/collection/34654408-e75d57c7-d307-4eca-b201-06809f8ccc5a?action=share&creator=34654408
 
-Replace your-collection-id with the ID of your Postman collection.
-
-Click on the "Import" button.
-
-The collection should now be imported into your Postman workspace.
-
 You can now use the imported collection to test the API endpoints locally.
+
+Thanks.
